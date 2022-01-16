@@ -8,6 +8,13 @@
 	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
+	<repositories>
+		<repository>
+			<id>ali-maven</id>
+			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
+		</repository>
+	</repositories>
+
 	<name>ToDo List Application for evaluating interview candidates</name>
 	<description>Spring Boot project for Senior Java Developer interview with nice</description>
 
